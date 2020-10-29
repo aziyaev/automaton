@@ -1,0 +1,39 @@
+F:\Aziz\Курсач\Automaton\Automaton\bin\Release\Automaton.exe.config
+F:\Aziz\Курсач\Automaton\Automaton\bin\Release\Automaton.exe
+F:\Aziz\Курсач\Automaton\Automaton\bin\Release\Automaton.pdb
+F:\Aziz\Курсач\Automaton\Automaton\obj\Release\Automaton.csprojAssemblyReference.cache
+F:\Aziz\Курсач\Automaton\Automaton\obj\Release\Automaton.Properties.Resources.resources
+F:\Aziz\Курсач\Automaton\Automaton\obj\Release\Automaton.csproj.GenerateResource.cache
+F:\Aziz\Курсач\Automaton\Automaton\obj\Release\Automaton.csproj.CoreCompileInputs.cache
+F:\Aziz\Курсач\Automaton\Automaton\obj\Release\Automaton.exe
+F:\Aziz\Курсач\Automaton\Automaton\obj\Release\Automaton.pdb
+C:\Projects\Automaton\Automaton\Automaton\bin\Release\Automaton.exe.config
+C:\Projects\Automaton\Automaton\Automaton\bin\Release\Automaton.exe
+C:\Projects\Automaton\Automaton\Automaton\bin\Release\Automaton.pdb
+C:\Projects\Automaton\Automaton\Automaton\obj\Release\Automaton.csprojAssemblyReference.cache
+C:\Projects\Automaton\Automaton\Automaton\obj\Release\Automaton.Properties.Resources.resources
+C:\Projects\Automaton\Automaton\Automaton\obj\Release\Automaton.TableForm.resources
+C:\Projects\Automaton\Automaton\Automaton\obj\Release\Automaton.csproj.GenerateResource.cache
+C:\Projects\Automaton\Automaton\Automaton\obj\Release\Automaton.csproj.CoreCompileInputs.cache
+C:\Projects\Automaton\Automaton\Automaton\obj\Release\Automaton.exe
+C:\Projects\Automaton\Automaton\Automaton\obj\Release\Automaton.pdb
+C:\Users\Azizbek\Desktop\Защита 21\Automaton\Automaton\bin\Release\Automaton.exe.config
+C:\Users\Azizbek\Desktop\Защита 21\Automaton\Automaton\bin\Release\Automaton.exe
+C:\Users\Azizbek\Desktop\Защита 21\Automaton\Automaton\bin\Release\Automaton.pdb
+C:\Users\Azizbek\Desktop\Защита 21\Automaton\Automaton\obj\Release\Automaton.csprojAssemblyReference.cache
+C:\Users\Azizbek\Desktop\Защита 21\Automaton\Automaton\obj\Release\Automaton.Properties.Resources.resources
+C:\Users\Azizbek\Desktop\Защита 21\Automaton\Automaton\obj\Release\Automaton.TableForm.resources
+C:\Users\Azizbek\Desktop\Защита 21\Automaton\Automaton\obj\Release\Automaton.csproj.GenerateResource.cache
+C:\Users\Azizbek\Desktop\Защита 21\Automaton\Automaton\obj\Release\Automaton.csproj.CoreCompileInputs.cache
+C:\Users\Azizbek\Desktop\Защита 21\Automaton\Automaton\obj\Release\Automaton.exe
+C:\Users\Azizbek\Desktop\Защита 21\Automaton\Automaton\obj\Release\Automaton.pdb
+C:\Users\Azizbek\Desktop\Курсовая 2020\Automaton\Automaton\bin\Release\Automaton.exe.config
+C:\Users\Azizbek\Desktop\Курсовая 2020\Automaton\Automaton\bin\Release\Automaton.exe
+C:\Users\Azizbek\Desktop\Курсовая 2020\Automaton\Automaton\bin\Release\Automaton.pdb
+C:\Users\Azizbek\Desktop\Курсовая 2020\Automaton\Automaton\obj\Release\Automaton.csprojAssemblyReference.cache
+C:\Users\Azizbek\Desktop\Курсовая 2020\Automaton\Automaton\obj\Release\Automaton.Properties.Resources.resources
+C:\Users\Azizbek\Desktop\Курсовая 2020\Automaton\Automaton\obj\Release\Automaton.TableForm.resources
+C:\Users\Azizbek\Desktop\Курсовая 2020\Automaton\Automaton\obj\Release\Automaton.csproj.GenerateResource.cache
+C:\Users\Azizbek\Desktop\Курсовая 2020\Automaton\Automaton\obj\Release\Automaton.csproj.CoreCompileInputs.cache
+C:\Users\Azizbek\Desktop\Курсовая 2020\Automaton\Automaton\obj\Release\Automaton.exe
+C:\Users\Azizbek\Desktop\Курсовая 2020\Automaton\Automaton\obj\Release\Automaton.pdb

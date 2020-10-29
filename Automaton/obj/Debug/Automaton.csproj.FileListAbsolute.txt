@@ -1,0 +1,39 @@
+F:\Aziz\Курсач\Automaton\Automaton\obj\Debug\Automaton.csprojAssemblyReference.cache
+F:\Aziz\Курсач\Automaton\Automaton\obj\Debug\Automaton.Properties.Resources.resources
+F:\Aziz\Курсач\Automaton\Automaton\obj\Debug\Automaton.csproj.GenerateResource.cache
+F:\Aziz\Курсач\Automaton\Automaton\obj\Debug\Automaton.csproj.CoreCompileInputs.cache
+F:\Aziz\Курсач\Automaton\Automaton\bin\Debug\Automaton.exe.config
+F:\Aziz\Курсач\Automaton\Automaton\bin\Debug\Automaton.exe
+F:\Aziz\Курсач\Automaton\Automaton\bin\Debug\Automaton.pdb
+F:\Aziz\Курсач\Automaton\Automaton\obj\Debug\Automaton.exe
+F:\Aziz\Курсач\Automaton\Automaton\obj\Debug\Automaton.pdb
+C:\Projects\Automaton\Automaton\Automaton\bin\Debug\Automaton.exe.config
+C:\Projects\Automaton\Automaton\Automaton\bin\Debug\Automaton.exe
+C:\Projects\Automaton\Automaton\Automaton\bin\Debug\Automaton.pdb
+C:\Projects\Automaton\Automaton\Automaton\obj\Debug\Automaton.csprojAssemblyReference.cache
+C:\Projects\Automaton\Automaton\Automaton\obj\Debug\Automaton.Properties.Resources.resources
+C:\Projects\Automaton\Automaton\Automaton\obj\Debug\Automaton.csproj.GenerateResource.cache
+C:\Projects\Automaton\Automaton\Automaton\obj\Debug\Automaton.csproj.CoreCompileInputs.cache
+C:\Projects\Automaton\Automaton\Automaton\obj\Debug\Automaton.exe
+C:\Projects\Automaton\Automaton\Automaton\obj\Debug\Automaton.pdb
+C:\Projects\Automaton\Automaton\Automaton\obj\Debug\Automaton.TableForm.resources
+C:\Users\Azizbek\Desktop\Защита 21\Automaton\Automaton\bin\Debug\Automaton.exe.config
+C:\Users\Azizbek\Desktop\Защита 21\Automaton\Automaton\bin\Debug\Automaton.exe
+C:\Users\Azizbek\Desktop\Защита 21\Automaton\Automaton\bin\Debug\Automaton.pdb
+C:\Users\Azizbek\Desktop\Защита 21\Automaton\Automaton\obj\Debug\Automaton.csprojAssemblyReference.cache
+C:\Users\Azizbek\Desktop\Защита 21\Automaton\Automaton\obj\Debug\Automaton.Properties.Resources.resources
+C:\Users\Azizbek\Desktop\Защита 21\Automaton\Automaton\obj\Debug\Automaton.TableForm.resources
+C:\Users\Azizbek\Desktop\Защита 21\Automaton\Automaton\obj\Debug\Automaton.csproj.GenerateResource.cache
+C:\Users\Azizbek\Desktop\Защита 21\Automaton\Automaton\obj\Debug\Automaton.csproj.CoreCompileInputs.cache
+C:\Users\Azizbek\Desktop\Защита 21\Automaton\Automaton\obj\Debug\Automaton.exe
+C:\Users\Azizbek\Desktop\Защита 21\Automaton\Automaton\obj\Debug\Automaton.pdb
+C:\Users\Azizbek\Desktop\Курсовая 2020\Automaton\Automaton\bin\Debug\Automaton.exe.config
+C:\Users\Azizbek\Desktop\Курсовая 2020\Automaton\Automaton\bin\Debug\Automaton.exe
+C:\Users\Azizbek\Desktop\Курсовая 2020\Automaton\Automaton\bin\Debug\Automaton.pdb
+C:\Users\Azizbek\Desktop\Курсовая 2020\Automaton\Automaton\obj\Debug\Automaton.csprojAssemblyReference.cache
+C:\Users\Azizbek\Desktop\Курсовая 2020\Automaton\Automaton\obj\Debug\Automaton.Properties.Resources.resources
+C:\Users\Azizbek\Desktop\Курсовая 2020\Automaton\Automaton\obj\Debug\Automaton.TableForm.resources
+C:\Users\Azizbek\Desktop\Курсовая 2020\Automaton\Automaton\obj\Debug\Automaton.csproj.GenerateResource.cache
+C:\Users\Azizbek\Desktop\Курсовая 2020\Automaton\Automaton\obj\Debug\Automaton.csproj.CoreCompileInputs.cache
+C:\Users\Azizbek\Desktop\Курсовая 2020\Automaton\Automaton\obj\Debug\Automaton.exe
+C:\Users\Azizbek\Desktop\Курсовая 2020\Automaton\Automaton\obj\Debug\Automaton.pdb
